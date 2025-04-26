@@ -5,4 +5,11 @@ Dalam pengembangan ini, website tidak hanya menampilkan informasi pemerintahan, 
 Selain itu, ditambahkan layanan digital untuk mempermudah keperluan administratif warga, seperti sistem e-Lapor untuk pengaduan masyarakat, layanan pengurusan KTP secara daring, serta informasi dan layanan terkait KUA (Kantor Urusan Agama).
 Dengan re-design ini, website diharapkan menjadi pusat informasi yang lebih interaktif, efisien, dan responsif terhadap kebutuhan masyarakat.
 
+## Preview Design
+
+![Alt Text](https://github.com/cindynadilaptr/Re-Design-Website-Pemerintah-Kota/blob/main/Screenshot%202025-04-26%20203510.png?raw=true)
+![Alt Text](https://github.com/cindynadilaptr/Re-Design-Website-Pemerintah-Kota/blob/main/Screenshot%202025-04-26%20203444.png?raw=true)
+![Alt Text](https://github.com/cindynadilaptr/Re-Design-Website-Pemerintah-Kota/blob/main/Screenshot%202025-04-26%20203424.png?raw=true)
+
+
 🔗 [Lihat desain di Figma](https://www.figma.com/design/oQZvNFHUfoxFoomoAfhVo3/PEMERINTAHAN-RE-DESIGN?node-id=0-1&t=f058PBvOIfQO5beQ-1)
