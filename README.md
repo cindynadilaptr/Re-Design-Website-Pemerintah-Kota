@@ -11,5 +11,8 @@ Dengan re-design ini, website diharapkan menjadi pusat informasi yang lebih inte
 ![Alt Text](https://github.com/cindynadilaptr/Re-Design-Website-Pemerintah-Kota/blob/main/Screenshot%202025-04-26%20203444.png?raw=true)
 ![Alt Text](https://github.com/cindynadilaptr/Re-Design-Website-Pemerintah-Kota/blob/main/Screenshot%202025-04-26%20203424.png?raw=true)
 
+## Tools
+- Figma
+
 
 🔗 [Lihat desain di Figma](https://www.figma.com/design/oQZvNFHUfoxFoomoAfhVo3/PEMERINTAHAN-RE-DESIGN?node-id=0-1&t=f058PBvOIfQO5beQ-1)
